@@ -1,0 +1,41 @@
+h1 {
+    color:red;
+    font-size: 75px;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    font-size: 45px;
+    
+}
+
+#fonds1,
+#fonds2 {
+    background-color: gray;
+
+}
+
+#fonds3 {
+    background-color: pink;
+}
+
+strong {
+    font-style: italic;
+    color: greenyellow;
+}
+
+em {
+    text-decoration-line: underline ;
+    text-decoration-color: purple;
+    font-size: larger;
+    color: orange;
+}
+
+#art2 h3 {
+    color: green;
+    text-align: right;
+    text-decoration-line: underline ;
+    text-decoration-color: red;
+
+}
